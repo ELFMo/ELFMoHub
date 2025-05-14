@@ -1,4 +1,6 @@
-# ELFMoHub
+<img src="https://github.com/ELFMo/ELFMo/blob/main/logo.png" alt="Logo" width="150"/> 
+
+# ELFMoHub 
 
 This is the landing page for ELFMo’s open-source code, open-access publications, and open data contributions. Unless otherwise specified, content is licensed under the MIT or CC-BY licenses.
 
