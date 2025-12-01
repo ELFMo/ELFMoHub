@@ -21,6 +21,8 @@ The code repository for the paper titled "Performance Estimation in Binary Class
 
 The code repository for the paper titled "Estimating Model Performance Under Covariate Shift Without Labels" to be published in NeurIPS 2025: https://github.com/pape-research/pape_r
 
+The code repository for the Master's thesis "Autonomous LLM Evaluation and Remediation Framework": https://github.com/afnan1456/llm_monitoring_framework/ .
+
 ---
 
 ELFMo is part of the ITEA4 Eureka Cluster on software innovation, supported by funding from local authorities, i.e., ANI, Business Finland, CDTI and VLAIO.
