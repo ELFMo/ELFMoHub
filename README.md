@@ -23,6 +23,8 @@ The code repository for the paper titled "Estimating Model Performance Under Cov
 
 The code repository for the Master's thesis "Autonomous LLM Evaluation and Remediation Framework": https://github.com/afnan1456/llm_monitoring_framework/ .
 
+The code repository for the Master's thesis "A Cost-Efficiency Based Framework for Selecting Large Language Models Using Public Benchmark Data" https://github.com/phuvio/total-cost-of-ownership .
+
 ---
 
 ELFMo is part of the ITEA4 Eureka Cluster on software innovation, supported by funding from local authorities, i.e., ANI, Business Finland, CDTI and VLAIO.
