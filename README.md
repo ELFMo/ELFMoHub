@@ -4,16 +4,9 @@
 
 This is the landing page for ELFMo’s open-source code, open-access publications, and open data contributions. Unless otherwise specified, content is licensed under the MIT or CC-BY licenses.
 
-## Software repositories:
-
 Ship-agent is an open-source repository showcasing a maritime data use case developed as part of the ELFMo project: https://github.com/orgs/Ship-agent
 
 Data-augmenter is an open-source repository demonstrating dataset augmentation techniques using large language models, developed by CIC as part of the ELFMo project: [https://github.com/CIC-SL/python-data-augmenter](https://github.com/CIC-SL/python-data-augmenter)
-
-
-## Publication repositories:
-
-University of Helsinki ELFMo-related publications https://researchportal.helsinki.fi/fi/projects/engineering-large-foundational-models-for-enterprise-integration/publications/
 
 The code repository for the paper titled "Confidence-based Estimators for Predictive Performance in Model Monitoring" published in JAIR in 2025: https://github.com/JuhaniK/AC_trials
 
@@ -26,6 +19,8 @@ The code repository for the Master's thesis "Autonomous LLM Evaluation and Remed
 The code repository for the Master's thesis "A Cost-Efficiency Based Framework for Selecting Large Language Models Using Public Benchmark Data" https://github.com/phuvio/total-cost-of-ownership .
 
 The code repository for the Master's thesis "Beyond Generic Responses: Achieving Brand Consistency in AI Chatbots Through Context-Aware Tone Adaptation": https://github.com/Abdulmalik740/Brand_consistent_chatbot
+
+University of Helsinki ELFMo-related publications https://researchportal.helsinki.fi/fi/projects/engineering-large-foundational-models-for-enterprise-integration/publications/
 
 ---
 
