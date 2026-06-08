@@ -25,6 +25,8 @@ The code repository for the Master's thesis "Autonomous LLM Evaluation and Remed
 
 The code repository for the Master's thesis "A Cost-Efficiency Based Framework for Selecting Large Language Models Using Public Benchmark Data" https://github.com/phuvio/total-cost-of-ownership .
 
+The code repository for the Master's thesis "Beyond Generic Responses: Achieving Brand Consistency in AI Chatbots Through Context-Aware Tone Adaptation": https://github.com/Abdulmalik740/Brand_consistent_chatbot
+
 ---
 
 ELFMo is part of the ITEA4 Eureka Cluster on software innovation, supported by funding from local authorities, i.e., ANI, Business Finland, CDTI and VLAIO.
