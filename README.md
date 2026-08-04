@@ -8,6 +8,10 @@ Ship-agent is an open-source repository showcasing a maritime data use case deve
 
 Data-augmenter is an open-source repository demonstrating dataset augmentation techniques using large language models, developed by CIC as part of the ELFMo project: [https://github.com/CIC-SL/python-data-augmenter](https://github.com/CIC-SL/python-data-augmenter)
 
+OneLadle, a universal method for log anomaly detection. OneLadle is both fast and extremely accurate, making it ideally suited for online or offline anomaly detection within a single log type or across log types. [https://github.com/juhamyllari/oneladle](https://github.com/juhamyllari/oneladle)
+
+
+
 The code repository for the paper titled "Confidence-based Estimators for Predictive Performance in Model Monitoring" published in JAIR in 2025: https://github.com/JuhaniK/AC_trials
 
 The code repository for the paper titled "Performance Estimation in Binary Classification Using Calibrated Confidence" to be published in ACML / Machine Learning journal 2025: https://github.com/JuhaniK/CBPE-experiments
