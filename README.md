@@ -18,9 +18,11 @@ The code repository for the paper titled "Performance Estimation in Binary Class
 
 The code repository for the paper titled "Estimating Model Performance Under Covariate Shift Without Labels" to be published in NeurIPS 2025: https://github.com/pape-research/pape_r
 
-The code repository for the Master's thesis "Autonomous LLM Evaluation and Remediation Framework": https://github.com/afnan1456/llm_monitoring_framework/ .
+The code repository for the Master's thesis "Autonomous LLM Evaluation and Remediation Framework": https://github.com/afnan1456/llm_monitoring_framework/ 
 
 The code repository for the Master's thesis "A Cost-Efficiency Based Framework for Selecting Large Language Models Using Public Benchmark Data" https://github.com/phuvio/total-cost-of-ownership .
+
+The code repositories for the Master's thesis "Evaluating Memory-Augmented Retrieval for Multi-Hop Tool Routing". Benchmark: https://github.com/sepaww/multi-hop_AmazonReviews2023_benchmark, Code: https://github.com/sepaww/Amem_memory_based_tool_retrieval
 
 The code repository for the Master's thesis "Beyond Generic Responses: Achieving Brand Consistency in AI Chatbots Through Context-Aware Tone Adaptation": https://github.com/Abdulmalik740/Brand_consistent_chatbot
 
